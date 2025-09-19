@@ -57,6 +57,148 @@
       },
       "uniqueId": "louis_data_2/2025-09-19T12-35-18.269Z-0.json",
       "isChunked": false
+    },
+    {
+      "id": "2025-09-19T12-36-20.921Z",
+      "filename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4",
+      "originalFilename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4",
+      "type": "video/mp4",
+      "createdAt": "2025-09-19T12:36:20.921Z",
+      "description": "",
+      "lastOpened": "2025-09-19T12:36:20.921Z",
+      "chunkIndex": 0,
+      "totalChunks": 6,
+      "gitHubRepo": "louis_data_2",
+      "gitHubPath": "2025-09-19T12-36-20.921Z-0.json",
+      "chunkFilePath": "chunks/2025-09-19T12-36-20.921Z/0.json",
+      "width": 1920,
+      "height": 1080,
+      "duration": 388.655601,
+      "folder": "others",
+      "previews": {
+        "thumbnail": {
+          "filePath": "previews/2025-09-19T12-36-20.921Z/thumbnail.json",
+          "iv": [
+            64,
+            13,
+            7,
+            88,
+            90,
+            198,
+            10,
+            88,
+            107,
+            226,
+            86,
+            202
+          ],
+          "salt": [
+            8,
+            187,
+            31,
+            213,
+            61,
+            46,
+            134,
+            46,
+            207,
+            39,
+            184,
+            73,
+            233,
+            226,
+            12,
+            1
+          ]
+        },
+        "medium": {
+          "filePath": "previews/2025-09-19T12-36-20.921Z/medium.json",
+          "iv": [
+            98,
+            166,
+            83,
+            196,
+            85,
+            255,
+            179,
+            88,
+            41,
+            222,
+            3,
+            23
+          ],
+          "salt": [
+            182,
+            234,
+            231,
+            223,
+            191,
+            211,
+            34,
+            185,
+            59,
+            81,
+            207,
+            231,
+            69,
+            154,
+            33,
+            143
+          ]
+        }
+      },
+      "uniqueId": "louis_data_2/2025-09-19T12-36-20.921Z-0.json",
+      "isChunked": true,
+      "chunks": [
+        {
+          "chunkIndex": 0,
+          "gitHubRepo": "louis_data_2",
+          "chunkFilePath": "chunks/2025-09-19T12-36-20.921Z/0.json",
+          "gitHubPath": "2025-09-19T12-36-20.921Z-0.json",
+          "filename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4.part_1_of_6",
+          "type": "video/mp4"
+        },
+        {
+          "chunkIndex": 1,
+          "gitHubRepo": "louis_data_2",
+          "chunkFilePath": "chunks/2025-09-19T12-36-20.921Z/1.json",
+          "gitHubPath": "2025-09-19T12-36-20.922Z-1.json",
+          "filename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4.part_2_of_6",
+          "type": "video/mp4"
+        },
+        {
+          "chunkIndex": 2,
+          "gitHubRepo": "louis_data_2",
+          "chunkFilePath": "chunks/2025-09-19T12-36-20.921Z/2.json",
+          "gitHubPath": "2025-09-19T12-36-20.923Z-2.json",
+          "filename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4.part_3_of_6",
+          "type": "video/mp4"
+        },
+        {
+          "chunkIndex": 3,
+          "gitHubRepo": "louis_data_2",
+          "chunkFilePath": "chunks/2025-09-19T12-36-20.921Z/3.json",
+          "gitHubPath": "2025-09-19T12-36-20.924Z-3.json",
+          "filename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4.part_4_of_6",
+          "type": "video/mp4"
+        },
+        {
+          "chunkIndex": 4,
+          "gitHubRepo": "louis_data_2",
+          "chunkFilePath": "chunks/2025-09-19T12-36-20.921Z/4.json",
+          "gitHubPath": "2025-09-19T12-36-20.925Z-4.json",
+          "filename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4.part_5_of_6",
+          "type": "video/mp4"
+        },
+        {
+          "chunkIndex": 5,
+          "gitHubRepo": "louis_data_2",
+          "chunkFilePath": "chunks/2025-09-19T12-36-20.921Z/5.json",
+          "gitHubPath": "2025-09-19T12-36-20.926Z-5.json",
+          "filename": "What are truffles, and why are they so expensive  - Carolyn Beans.mp4.part_6_of_6",
+          "type": "video/mp4"
+        }
+      ]
     }
   ]
 }
