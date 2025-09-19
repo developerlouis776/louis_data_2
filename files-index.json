@@ -1,3 +1,62 @@
 {
-  "files": []
+  "files": [
+    {
+      "id": "2025-09-19T12-35-18.269Z",
+      "filename": "android-chrome-192x192.png",
+      "originalFilename": "android-chrome-192x192.png",
+      "type": "image/png",
+      "createdAt": "2025-09-19T12:35:18.269Z",
+      "description": "",
+      "lastOpened": "2025-09-19T12:35:18.269Z",
+      "chunkIndex": 0,
+      "totalChunks": 1,
+      "gitHubRepo": "louis_data_2",
+      "gitHubPath": "2025-09-19T12-35-18.269Z-0.json",
+      "chunkFilePath": "chunks/2025-09-19T12-35-18.269Z/0.json",
+      "width": 192,
+      "height": 192,
+      "duration": 0,
+      "folder": "others",
+      "previews": {
+        "thumbnail": {
+          "filePath": "previews/2025-09-19T12-35-18.269Z/thumbnail.json",
+          "iv": [
+            127,
+            7,
+            104,
+            57,
+            100,
+            121,
+            11,
+            21,
+            147,
+            241,
+            63,
+            214
+          ],
+          "salt": [
+            48,
+            43,
+            127,
+            213,
+            70,
+            46,
+            0,
+            102,
+            56,
+            162,
+            203,
+            25,
+            162,
+            150,
+            89,
+            27
+          ]
+        },
+        "medium": null
+      },
+      "uniqueId": "louis_data_2/2025-09-19T12-35-18.269Z-0.json",
+      "isChunked": false
+    }
+  ]
 }
